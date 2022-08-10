@@ -17,7 +17,7 @@
 
 ## General Information
 
-### Business Understanding
+### 1.Business Understanding
 
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
@@ -27,7 +27,7 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 
 We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
-### Data Description
+### 2.Data Description
 
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
@@ -101,6 +101,7 @@ Based on various meteorological surveys and people's styles, the service provide
 ##### Model 2.1, Model 2.2, Model 2.3
 #### 7.2.2 Model 3 : (Build the model by considering top 10 features)
 #### 7.2.3 Model 4: (Build a model by removing the mnth_Nov from Model3)
+#### 7.2.4 Model 5: (Build a model byconsidering top 7 features)
 
 ### 8. Residual Analysis
 
